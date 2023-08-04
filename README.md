@@ -13,4 +13,4 @@ dialing up the resolution to non-interactive levels.
 
 I would recommend leaving the multi-threaded toggle ticked for better performance.
 
-![alt text](https://github.com/aloyisus/SOP_Mandelbulb/blob/master/Mandelbulb.jpg?raw=true)
+![screenshot](https://github.com/aloyisus/SOP_Mandelbulb/blob/master/Mandelbulb.jpg?raw=true)
